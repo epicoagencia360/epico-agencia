@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Agencia Épica - Marketing Digital, Diseño, Comunicación Política e Institucional" />
+  <title>Agencia Épica</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1e1e1e;
+      color: #f5f5f5;
+    }
+
+    header {
+      background-color: #f7c600;
+      color: #1e1e1e;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+      letter-spacing: 2px;
+    }
+
+    header p {
+      margin: 10px 0 0;
+      font-size: 1.2rem;
+      font-weight: 500;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #f7c600;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 12px;
+      font-size: 1.1rem;
+    }
+
+    footer {
+      background-color: #111;
+      color: #aaa;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+
+    a {
+      color: #f7c600;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      section {
+        padding: 20px 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Agencia Épica</h1>
+    <p>Comunicación. Estrategia. Impacto.</p>
+  </header>
+
+  <section>
+    <h2>¿Quiénes somos?</h2>
+    <p>Somos una agencia de marketing digital 360 con sede en Argentina, especializada en diseño gráfico, comunicación institucional, comunicación política y consultoría estratégica. Ayudamos a marcas, gobiernos y líderes a destacar y conectar.</p>
+  </section>
+
+  <section>
+    <h2>Servicios</h2>
+    <ul>
+      <li>✅ Comunicación institucional y política</li>
+      <li>✅ Diseño gráfico e identidad visual</li>
+      <li>✅ Marketing digital y redes sociales</li>
+      <li>✅ Campañas 360 con enfoque estratégico</li>
+      <li>✅ Consultoría para empresas y líderes públicos</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contacto</h2>
+    <p>📧 <a href="mailto:epicoagencia360@gmail.com">epicoagencia360@gmail.com</a></p>
+    <p>🌐 <a href="http://www.epicoagencia.com.ar" target="_blank">www.epicoagencia.com.ar</a></p>
+  </section>
+
+  <footer>
+    © 2025 Agencia Épica · Hecho con pasión por Juan Pablo Fayos y Guadalupe Sánchez
+  </footer>
+</body>
+</html>
+ 
