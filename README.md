@@ -26,4 +26,4 @@ Nuestro trabajo está orientado a potenciar el impacto de marcas, gobiernos loca
 
 📍 Sitio web: [www.epicoagencia.com.ar](http://www.epicoagencia.com.ar)  
 📩 Contacto: epicoagencia360@gmail.com  
-✍️ Fundadores: Juan Pablo Fayos & Guadalupe Sánchez  
+✍️ Fundadores:  Guadalupe Sánchez & Juan Pablo Fayos 
